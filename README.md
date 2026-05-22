@@ -74,27 +74,6 @@ Observations
 Simple sentences
 Common vocabulary
 
-❌ Weak performance on:
-
-Complex Sanskrit structures
-Long sentences
-Rare words
-Error Types
-Incorrect word order
-Missing information
-Over/under translation
-Incorrect handling of morphology
-⚠️ Limitations
-Sanskrit is low-resource, so model support is limited
-Pre-trained model may not be optimized for this dataset
-No fine-tuning performed
-Errors increase with sentence complexity
-🚀 Future Work
-Fine-tune model on Sanskrit–English parallel data
-Use larger multilingual NMT models
-Improve preprocessing for Sanskrit grammar
-Experiment with different decoding strategies
-
 ⚙️ Installation
 pip install transformers sentencepiece torch
 ▶️ Usage
