@@ -94,7 +94,6 @@ This assignment uses the following pre-trained model:
 Model: Helsinki-NMT
 Architecture: Transformer-based Seq2Seq (MarianMT)
 Training: Pre-trained on multilingual parallel corpora
-Usage: Direct inference without fine-tuning
 
 👤 Author
 
